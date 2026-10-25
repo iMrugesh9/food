@@ -1,0 +1,18 @@
+# Environment & Secrets
+.env
+.env.*
+*.secret
+
+# Python & System Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.swp
+*~
+.DS_Store
+.directory
+
+# Temporary files & Logs
+*.log
+tmp/
+temp/
